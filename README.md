@@ -14,7 +14,7 @@
 | Day | Topic | Notes | Design Challenge |
 |-----|-------|-------|------------------|
 | 1 |pythonbasicconcept|[Notes](day1/notes.md)|[designchallenge](day1/designchallenge.py)|
-| 2 | | | |
+| 2 |pythonfundamentals |[notes](day2/notes.md) |[desighchallenge](day2/designchallenge.py) |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
