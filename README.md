@@ -13,7 +13,7 @@
 
 | Day | Topic | Notes | Design Challenge |
 |-----|-------|-------|------------------|
-| 1 | |[Notes](Day1/notes.md) | |
+| 1 |python basic concepts |[Notes](Day1/notes.md) | |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
