@@ -11,11 +11,11 @@
 
 </div>
 
-| Day | Topic | Notes | Design Challenge |
-|-----|-------|-------|------------------|
-| 1 |pythonbasicconcept|[Notes](day1/notes.md)|[designchallenge](day1/designchallenge.py)|
-| 2 |pythonfundamentals |[notes](day2/notes.md) |[desighchallenge](day2/designchallenge.py) |
-| 3 |anacondapythonnumpy |[notes](day3-/notes.md) |[designchallenge](day3-/designchallenge.py)|
+| Day | Topic | Notes | Design Challenge |collab|
+|-----|-------|-------|------------------|-------|
+| 1 |pythonbasicconcept|[Notes](day1/notes.md)|[designchallenge](day1/designchallenge.py)||
+| 2 |pythonfundamentals |[notes](day2/notes.md) |[desighchallenge](day2/designchallenge.py) ||
+| 3 |anacondapythonnumpy |[notes](day3-/notes.md) |[designchallenge](day3-/designchallenge.py)||
 | 4 | | | |
 | 5 | | | |
 | 6 | | | |
