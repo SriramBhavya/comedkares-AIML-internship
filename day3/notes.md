@@ -1,1 +1,1 @@
-python fundamentals
+Simple programs numpy and pandas intro and design challenge in netflix pdata base and we did it in google collab and posted it on design challenge we learnt how to make it in table form and pie chart and to add the top directors in the from the 3000 directors given and and also the name asnd the ratings and the names and the ratings and did a pie chart on the directors and finalizing the listy of directors
