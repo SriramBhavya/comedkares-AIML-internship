@@ -18,7 +18,7 @@
 | 3 |simpleprograms,numpy|[notes](day3/notes.md) |[designchallenge](day3/designchallenge.py)|[collab](/Netflix_Data_Analysis.ipynb)|
 | 4 |AI,search,knowledge,uncertainity,optimization,learning,neuralnetworks,language |[notes](DAY4/NOTES.MD)|[designchallenge]
 | 5 |search-intialstate,goalstate|[notes](DAY5/NOTES.MD) | |
-| 6 | | | |
+| 6 | DFS-DepthFirstSearch|[notes](DAY6/NOTES.MD)| |
 | 7 | | | |
 | 8 | | | |
 | 9 | | | |
