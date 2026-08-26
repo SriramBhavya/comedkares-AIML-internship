@@ -16,7 +16,7 @@
 | 1 |syntax,variables,conditionalstatements,looping statements|[Notes](day1/notes.md)|[designchallenge](day1/designchallenge.py)||
 | 2 |characters,list,tuple,functions|[notes](day2/notes.md) |[designchallenge](day2/designchallenge.py) ||
 | 3 |simpleprograms,numpy|[notes](day3/notes.md) |[designchallenge](day3/designchallenge.py)|[collab](/Netflix_Data_Analysis.ipynb)|
-| 4 |AI,search,knowledge,uncertainity,optimization,learning,neuralnetworks,language | | |
+| 4 |AI,search,knowledge,uncertainity,optimization,learning,neuralnetworks,language |[notes](DAY4/NOTES.MD)|
 | 5 | | | |
 | 6 | | | |
 | 7 | | | |
