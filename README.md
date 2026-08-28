@@ -19,7 +19,7 @@
 | 4 |AI,search,knowledge,uncertainity,optimization,learning,neuralnetworks,language |[notes](DAY4/NOTES.MD)|[designchallenge]
 | 5 |search-intialstate,goalstate|[notes](DAY5/NOTES.MD) | |
 | 6 | DFS-DepthFirstSearch|[notes](DAY6/NOTES.MD)| |
-| 7 |GreddyFirstSearch |[notes](Day7/Notes.md) | |
+| 7 |GreddyFirstSearch,BFS-BreadthFirstSearch |[notes](Day7/Notes.md) | |
 | 8 | | | |
 | 9 | | | |
 | 10 | | | |
