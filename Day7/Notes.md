@@ -4,3 +4,5 @@ f(n) = h(n)
 h(n) = estimated cost from node n to the goal
 It chooses the node with the lowest h(n).
 It is generally faster than uninformed search, but does not always find the shortest path
+
+BFS-Breadth First Search
